@@ -1,7 +1,9 @@
 # IP Address Locator
 
 This Python script allows you to check your system's IP address and track details of any IP address (IPv4 or IPv6). It uses the `ip-api.com` service to fetch IP address details and displays the information in a user-friendly format.
+# Screeshot
 
+![Screenshot of the Project](ipaddress.jpeg)
 ## Features
 
 - Check the system's IP address.
