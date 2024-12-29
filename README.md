@@ -27,8 +27,8 @@ This Python script allows you to check your system's IP address and track detail
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/GET-UNKNOWN-ERR0R/Track-IP.git
-    cd Track-IP
+    git clone https://github.com/GET-UNKNOWN-ERR0R/track-ip.git
+    cd track-ip
     ```
 
 2. **Make the `run-script.sh` file executable:**
@@ -52,8 +52,8 @@ This Python script allows you to check your system's IP address and track detail
 1. **Clone the Repository:**
 
     ```sh
-    git clone https://github.com/GET-UNKNOWN-ERR0R/Track-IP.git
-    cd Track-IP
+    git clone https://github.com/GET-UNKNOWN-ERR0R/track-ip.git
+    cd track-ip
     ```
 
 2. **Install Required Python Libraries:**
@@ -114,4 +114,5 @@ The script starts by creating an instance of `IPAddressLocator` and calling its 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
